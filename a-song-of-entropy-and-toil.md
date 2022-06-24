@@ -34,7 +34,7 @@ Automatisierung ist das Gegenmittel zu Toil - durch die Automatisierung der geri
 
 John Willis and Damon Edwards Entwickelten das Acrony [CAMS](https://itrevolution.com/devops-culture-part-1/) im Jahr 2010.ierbei steht das `A` für Automation. und liefert wie wir bereits gelernt haben ine gute Antwort zu Toil - wie besiegt man jedoch Entropie? Eine Idee dazu liefert Jez Humble mit der Erweiterung das Akronyms zu [C.A.L.M.S](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/). Was bedeutet nun das `L` ? 
 
-#### `L` für Lean
+## `L` steht für Lean
 Die Erweiterung von Jez Humble fügt hier einen weiteren Erfolgsfaktor zum Kampf gegen Entropie hinzu. Lean besteht aus den [fünf Schlüsselprinzipien von Lean](https://theleanway.net/The-Five-Principles-of-Lean). Die Lean-IT-Bewegung versucht, diese Konzepte auf die Welt der Softwareentwicklung auszuweiten. Die wichtigsten Texte sind [Lean Software Development von Tom & Mary Poppendieck](h[ttps://www.amazon.co.uk/Lean-Software-Development-Agile-Toolkit/dp/0321150783](https://www.oreilly.com/library/view/lean-software-development/0321150783/)) und [Lean Enterprise von Humble, Molesky und O'Reilly](https://www.oreilly.com/library/view/lean-enterprise/9781491946527/). Lean zielt auf FLOW ab - den reibungslosen Übergang der Arbeit von einem "Arbeitszentrum" zum nächsten in kürzester Zeit. Idealerweise mit so wenig Warteschlangen/Puffern wie möglich. 
 
 
