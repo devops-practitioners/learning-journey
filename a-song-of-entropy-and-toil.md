@@ -13,13 +13,13 @@ Mathematisch lässt sich dies als Faustformel durch `S = Q/T`  beschreiben - wob
 
 
 Basierend auf dieser These kann eine Organisation als isoliertes System angesehen werden. Das System als solches wird Verlangsamt durch diverse Faktoren wie: 
-* Konstanter Wandel (jeder möchte VEränderung - keiner sich jedoch verändern)
+* Konstanter Wandel (jeder möchte Veränderung - keiner sich selbst jedoch verändern)
 * Kommunikation - je mehr Abhängigkeiten zwischen den Komponenten bestehen, desto träger wird das System (Boards, Gremien, Teamübergreifende- und Teaminterne Kommunikation, ...)
 * Prozess Dschungel und starre Traditionen
 * Historie - Vom Altsystem bis zu historischen Rollen und Artefakte 
 * vieles mehr ...
 
-Die meisten Punkte die hier auf die Entropie des Systems einwirken haben jedoch eine andere Ursache. Google drückt dies auf ihrer SRE (Site Reliability Engineering) Website) aus durch den Begriff Toil (Mühsal):
+Die meisten Punkte die hier auf die Entropie des Systems einwirken, haben jedoch eine andere Ursache. Google drückt dies auf ihrer SRE (Site Reliability Engineering) Website) aus durch den Begriff Toil (Mühsal):
 
 > “So what is toil? Toil is the kind of work tied to running a production service that tends to be manual, repetitive, automatable, tactical, devoid of enduring value, and that scales linearly as a service grows. Not every task deemed toil has all these attributes, but the more closely work matches one or more of the following descriptions, the more likely it is to be toil:”
 – [Google](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/)
