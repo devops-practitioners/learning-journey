@@ -26,4 +26,16 @@ Die meisten Punkte die hier auf die Entropie des Systems einwirken haben jedoch 
 
 Automatisierung ist das Gegenmittel zu Toil - durch die Automatisierung der geringwertigen Arbeit bleibt mehr Zeit für die Arbeit mit höherem Wertzuwachs. Die Automatisierung sollte auch die Wiederholbarkeit und Zuverlässigkeit verbessern, indem alle Aufgaben automatisiert werden. Wenn die gleichen Aufgaben jedes Mal auf die gleiche Weise ausgeführt werden, gibt es keine Überraschungen methr. Manuelle Aufgaben hingegen führen zu einem hohen Maß an Variation und damit zu einem Mangel an Wiederholbarkeit.
 
-## DevOps 
+## DevOps Kultur als Antwort 
+
+<p align="center">
+<img width=300 src="https://user-images.githubusercontent.com/8672357/175659600-b6771a3f-76ea-4baa-9718-e5a9175e79c8.png">
+</p>
+
+John Willis and Damon Edwards Entwickelten das Acrony [CAMS](https://itrevolution.com/devops-culture-part-1/) im Jahr 2010.ierbei steht das `A` für Automation. und liefert wie wir bereits gelernt haben ine gute Antwort zu Toil - wie besiegt man jedoch Entropie? Eine Idee dazu liefert Jez Humble mit der Erweiterung das Akronyms zu [C.A.L.M.S](https://benjitrapp.github.io/cultures/2022-03-30-CALMS-devops/). Was bedeutet nun das `L` ? 
+
+#### `L` für Lean
+Die Erweiterung von Jez Humble fügt hier einen weiteren Erfolgsfaktor zum Kampf gegen Entropie hinzu. Lean besteht aus den [fünf Schlüsselprinzipien von Lean](https://theleanway.net/The-Five-Principles-of-Lean). Die Lean-IT-Bewegung versucht, diese Konzepte auf die Welt der Softwareentwicklung auszuweiten. Die wichtigsten Texte sind [Lean Software Development von Tom & Mary Poppendieck](h[ttps://www.amazon.co.uk/Lean-Software-Development-Agile-Toolkit/dp/0321150783](https://www.oreilly.com/library/view/lean-software-development/0321150783/)) und [Lean Enterprise von Humble, Molesky und O'Reilly](https://www.oreilly.com/library/view/lean-enterprise/9781491946527/). Lean zielt auf FLOW ab - den reibungslosen Übergang der Arbeit von einem "Arbeitszentrum" zum nächsten in kürzester Zeit. Idealerweise mit so wenig Warteschlangen/Puffern wie möglich. 
+
+
+
