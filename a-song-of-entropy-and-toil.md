@@ -1,7 +1,7 @@
 ## Prolog - oder was ist Entropie?
 Ein inoffizieller Appendix der Hauptsätze der Thermodynamik lautet: `Du sollst dir kein Bildnis von Entropie machen`. Gegen diesen Grundsatz werden wir nun verstoßen - was ist Entropie? 
 
-Entropie ist in erster Linie ein Kunstwort und kommt aus dem altgriechischen ἐντροπία entropía und lässt sich grob als "in Wendung" übersetzen. Entropie beschreibt eine fundamentale thermodynamische Zustansgrö0e und wird durch den zweiten Hauptsatz der Thermodynamik beschrieben: 
+Entropie ist in erster Linie ein Kunstwort und kommt aus dem altgriechischen ἐντροπία entropía. Dies lässt sich grob als "in Wendung" übersetzen. Entropie beschreibt eine fundamentale thermodynamische Zustansgrö0e und wird durch den zweiten Hauptsatz der Thermodynamik beschrieben: 
 
 > Die Gesamtentropie in einem isolierten System kann nie kleiner werden, d.h. sie kann nur größer werden oder gleich bleiben. Ein System kann sich nicht mehr verändern, wenn die Entropie ihren Maximalwert erreicht hat, das System befindet dann sich im Gleichgewicht.
 
