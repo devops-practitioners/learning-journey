@@ -5,7 +5,7 @@ Entropie ist in erster Linie ein Kunstwort und kommt aus dem altgriechischen ἐ
 
 > Die Gesamtentropie in einem isolierten System kann nie kleiner werden, d.h. sie kann nur größer werden oder gleich bleiben. Ein System kann sich nicht mehr verändern, wenn die Entropie ihren Maximalwert erreicht hat, das System befindet dann sich im Gleichgewicht.
 
-Mathematisch lässt sich dies als Faustformel durch `S = Q/T`  beschreiben - wobei Q die Wärmemenge bei reversiblem Prozess darstellt und T für die Temperatur steht. Konkret lässt sich die Formel also als "Entropie ist die Wärmemenge die als Temperatur an die Umgebung abgegeben wird" 
+Mathematisch lässt sich dies als Faustformel durch `S = Q/T`  beschreiben - wobei Q die Wärmemenge bei reversiblem Prozess darstellt und T für die Temperatur steht. Konkret lässt sich die Formel also als "Entropie ist die Wärmemenge die als Temperatur an die Umgebung abgegeben wird" übersetzen.
 
 # Ein Lied von Entropie und Mühsal
 
