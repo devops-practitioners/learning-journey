@@ -1,5 +1,20 @@
 # learning-journey
 
+# 2022-07-01 [Team Topologies](https://web.devopstopologies.com)
+
+## Plattformteam
+Stellt Tools per API bereit, die in den Teams zu Complicated wären selber zu betreiben
+
+## Enabling Team
+Erklären die Security Methodik (wie geht man mit Findings um) und wie man die Tools vom Plattformteam nutzt.
+Gibt dem Plattformteam Experten-Feedback
+
+
+## Typ 5
+- 2nd Line -> Chapter (wie Architekten), die in den DevTeams mirarbeiten und sich zusammensetzten, um die Standards anzupassen
+- 2nd Line ist eine Gilde. Diese MUSS ISMS Dokumente und verständliche Guidelines pflegen. Security Leute sind in den Dev Teams oder Security Plattform Teams und kommen aus diesen raus, wenn das ISMS angepasst werden muss. Änderungen an Dokumenten brauchen eine 2 Drittel Mehrheit der Gilde.
+- Coaching Kata Team (DevOps aus Typ 5): Tools, Richtlinien, Metodik und 3rd Line Denke vermitteln, sodass das Dev Team diese übernimmt.
+
 ## Transformation, Rolle
 
 Menschen die - im Zuge einer organisatorischen Transformation - eine neue Rolle besetzen, fallen immer in die gleichen Verhaltensmuster zurück, weil die Verhältnisse und Interaktionen mit den Menschen gleich bleiben. Nur wenn eine neue Rolle in einem neuen Umfeld wahrgenommen wird, können die Merkmale der neuen Rolle besser angenommen werden.
